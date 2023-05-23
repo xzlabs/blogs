@@ -1,3 +1,5 @@
-# blogs
-Notes,Blogs,and so on...
-hello
+# หตร๗
+
+hexo
+
+
